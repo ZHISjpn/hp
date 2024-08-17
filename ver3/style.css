@@ -1,0 +1,24 @@
+*{
+    background-color: #252525;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: center;
+   }
+  
+  .top {
+    background-color: #0000ff;
+    font-size: 32px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .slow_and_count{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 32px;
+  }
+  
+  .back_to_beta{
+    background-color: red;
+    font-size: 24px;
+  }
