@@ -2,5 +2,5 @@
 # END SYSTEM HTTPS SETTING
 RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} ^(DoCoMo|KDDI|DDIPOKET|UP\.Browser|J-PHONE|Vodafone|SoftBank)
-RewriteRule ^$ /m/ [R]
+RewriteRule ^$ http://k1.fc2.com/cgi-bin/hp.cgi/zhis/ [R]
 ErrorDocument 404 /404.html
